@@ -1,0 +1,31 @@
+div{
+    width: 300px;
+    border: 14px; 
+    padding: 50px;
+    margin:auto
+}
+  body {
+    background-color: rgb(206, 41, 143);
+    color: black; border: 4px;
+  }
+  .box {
+    background-color: rgb(224, 228, 20);
+    color: rgb(78, 161, 30);
+    font-family: 'Lemon', serif;
+  }
+  .box2 {
+    background-color: black;
+    color: white;
+    font-family: 'Lemon', serif;
+    font-family: 'Oswald', sans-serif;
+  }
+  .box3 {
+    background-color: rgb(68, 26, 26);
+    color: rgb(231, 160, 160);
+    font-family: 'Lemon', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Tektur', sans-serif;
+  }
+  
+  
+  
